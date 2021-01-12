@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "nama": "RSUD Nunukan",
+            "telpon": "0556-21118",
+            "alamat": "Jl.Sungai Fatimah RT 04,Kabupaten Nunukan 77482"
+        },
+        {
+            "nama": "PLN Nunukan",
+            "telpon": "0556-2025411",
+            "alamat": "Jl.Iskandar Muda, Nunukan Barat Kec. Nunukan, Kabupaten Nunukan, Kalimantan Utara 77482"
+        },
+        {
+            "nama": "PDAM Nunukan",
+            "telpon": "0556-21035",
+            "alamat": "Jl.Pembangunan No.70, Nunukan Barat, Kec. Nunukan, Kabupaten Nunukan, Kalimantan Utara 77482"
+        },
+        {
+            "nama": "Polres Nunukan",
+            "telpon": "0556-2027898",
+            "alamat": "Jl.Ujang Dewa No.9, Nunukan Selatan, Kec. Nunukan, Kabupaten Nunukan, Kalimantan Utara 77482"
+        },
+        {
+            "nama": "Damkar Nunukan",
+            "telpon": "0556-22800",
+            "alamat": "Jl.Pembangunan, RT 10, Kel. Nunukan Barat, Kec. Nunukan, Kabupaten Nunukan, Kalimantan Utara 77482"
+        }
+    ]
+}
